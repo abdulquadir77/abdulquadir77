@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *MERN STACK*
 
-- 👨‍💻 Take a peek at my [projects](https://nidhi.netlify.app/)
+- 👨‍💻 Take a peek at my [projects](https:/abdulquadir.netlify.app/)
 
 
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/nidhi1234/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-quadir-aa0a60200/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,8 +32,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarohi1234&hide=php&layout=compact&theme=radical" alt="nidhi" height="50%" width="50%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadir&hide=php&layout=compact&theme=radical" alt="abdul" height="50%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aarohi1234&show_icons=true&locale=en&theme=radical" alt="nidhi" height="50%" width="50%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulquadir&show_icons=true&locale=en&theme=radical" alt="abdul" height="50%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohi1234&theme=radical" alt="nidhi" height="50%" width="50%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir&theme=radical" alt="abdul" height="50%" width="50%"/></p>
