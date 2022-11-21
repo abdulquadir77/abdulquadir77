@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *MERN STACK*
 
-- 👨‍💻 Take a peek at my [projects](https:/abdulquadir.netlify.app/)
+- 👨‍💻 My [portfolio](https://abdulquadir77.github.io/)
 
 
 
