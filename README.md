@@ -32,8 +32,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadir77&hide=php&layout=compact&theme=radical" alt="abdul" height="100%" width="100%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadir77&hide=php&layout=compact&theme=radical" alt="abdul" height="100%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulquadir77&show_icons=true&locale=en&theme=radical" alt="abdul" height="100%" width="100%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulquadir77&show_icons=true&locale=en&theme=radical" alt="abdul" height="100%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir77&theme=radical" alt="abdul" height="100%" width="100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir77&theme=radical" alt="abdul" height="100%" width="50%"/></p>
