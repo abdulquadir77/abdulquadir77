@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulquadir&show_icons=true&locale=en&theme=radical" alt="abdul" height="50%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir&theme=radical" alt="abdul" height="50%" width="50%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir77&theme=radical" alt="abdul" height="50%" width="50%"/></p>
