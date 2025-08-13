@@ -20,14 +20,70 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/000000/react.png"/> </a>&nbsp;&nbsp;
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>&nbsp;&nbsp;
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> </a> &nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>&nbsp;&nbsp;
+<!-- React Native -->
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Redux Toolkit -->
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- React Query -->
+<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" height="40"/>
+</a>&nbsp;&nbsp;
+
+<!-- ES6 -->
+<a href="https://262.ecma-international.org/6.0/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- MUI -->
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/material-ui.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Node.js -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Express.js -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Yup -->
+<a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40"/>
+</a>&nbsp;&nbsp;
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</a>&nbsp;&nbsp;
 
 
 
