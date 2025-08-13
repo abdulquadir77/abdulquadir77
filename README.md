@@ -25,11 +25,6 @@
   <img src="https://img.icons8.com/office/40/000000/react.png"/>
 </a>&nbsp;&nbsp;
   
-<!-- React Native -->
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
-</a>&nbsp;&nbsp;
-
 <!-- Redux Toolkit -->
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
@@ -58,6 +53,11 @@
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- NPM -->
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 </a>&nbsp;&nbsp;
 
 <!-- Node.js -->
