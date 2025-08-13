@@ -20,6 +20,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/office/40/000000/react.png"/>
+</a>&nbsp;&nbsp;
+  
 <!-- React Native -->
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
@@ -43,6 +48,11 @@
 <!-- MUI -->
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/material-ui.png"/>
+</a>&nbsp;&nbsp;
+
+<!-- Chakra UI -->
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>
 </a>&nbsp;&nbsp;
 
 <!-- Bootstrap -->
